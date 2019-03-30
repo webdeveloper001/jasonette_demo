@@ -1,0 +1,18 @@
+{
+  "$jason": {
+    "head": {
+      "title": "{ ˃̵̑ᴥ˂̵̑}",
+      "actions": {
+        "$foreground": {
+          "type": "$reload"
+        }
+      }
+    },
+		"body": {
+            "background": {
+                "type": "html",
+                "url": "http://47.102.133.60:8006/webroot/decision/view/form?viewlet=ELC%2FM_ELC.frm&op=h5"
+            }
+        }
+    }
+}

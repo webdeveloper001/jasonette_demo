@@ -11,11 +11,13 @@
     "body": {
       "sections": [{
         "items": [{
-          "type": "html",
-          "style": {
-            "height": "800"
-          },
-          "url": "http://47.102.133.60:8006/webroot/decision/view/form?viewlet=ELC%2FM_ELC.frm&op=h5"
+          "components": [{
+            "type": "html",
+            "style": {
+              "height": "800"
+            },
+            "url": "http://47.102.133.60:8006/webroot/decision/view/form?viewlet=ELC%2FM_ELC.frm&op=h5"
+          }],
         }]
       }]
     }

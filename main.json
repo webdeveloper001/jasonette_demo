@@ -20,7 +20,7 @@
             "height": "500",
             "background": "#ff0000"
           },
-          "text": "https://google.com",
+          "text": "<iframe src='https://google.com'></iframe>",
         },{
           "type": "label",
           "text": "after"

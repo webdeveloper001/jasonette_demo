@@ -9,10 +9,6 @@
       }
     },
     "body": {
-      "background": {
-        "type": "html",
-        "url": "https://google.com"
-      },
       "sections": [{
         "items": [{
           "type": "label",

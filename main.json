@@ -14,25 +14,13 @@
           "type": "label",
           "text": "hhh"
         },{
-          "type": "vertical",
+          "type": "html",
           "style": {
             "width": "300",
             "height": "500",
-            "background": "#ff00ff"
+            "background": "#ff0000"
           },
-          "background": {
-            "type": "html",
-            "url": "https://google.com"
-          },
-          "components": [{
-            "type": "html",
-            "style": {
-              "width": "300",
-              "height": "500",
-              "background": "#ff0000"
-            },
-            "url": "https://google.com",
-          }]
+          "url": "https://google.com",
         },{
           "type": "label",
           "text": "after"

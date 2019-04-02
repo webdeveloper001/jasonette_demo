@@ -17,7 +17,8 @@
           "type": "vertical",
           "style": {
             "width": "300",
-            "height": "500"
+            "height": "500",
+            "background": "#ff00ff"
           },
           "background": {
             "type": "html",

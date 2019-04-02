@@ -9,23 +9,13 @@
       }
     },
     "body": {
-      "sections": [{
-        "items": [{
-          "type": "label",
-          "text": "fggg"
-        },{
-          "type": "html",
-          "style": {
-            "width": "300",
-            "height": "500",
-            "background": "#ff0000"
-          },
-          "text": "<iframe src='http://47.102.133.60:8006/webroot/decision/view/form?viewlet=ELC%2FM_ELC.frm&op=h5'></iframe>",
-        },{
-          "type": "label",
-          "text": "after"
-        }]
-      }]
+      "background": {
+        "type": "html",
+        "url": "http://47.102.133.60:8006/webroot/decision/view/form?viewlet=ELC%2FM_ELC.frm&op=h5",
+        "action": {
+          "trigger": "navigate"
+        }
+      }
     }
   }
 }

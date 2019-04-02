@@ -19,6 +19,10 @@
             "width": "300",
             "height": "500"
           },
+          "background": {
+            "type": "html",
+            "url": "https://google.com"
+          },
           "components": [{
             "type": "html",
             "style": {

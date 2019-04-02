@@ -20,7 +20,7 @@
             "height": "500",
             "background": "#ff0000"
           },
-          "url": "https://google.com",
+          "text": "https://google.com",
         },{
           "type": "label",
           "text": "after"
